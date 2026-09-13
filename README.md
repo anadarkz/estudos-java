@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Estudos Java - POO | FUCAPI
 
 Exercícios acadêmicos de Programação Orientada a Objetos em Java.
